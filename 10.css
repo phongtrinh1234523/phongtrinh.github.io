@@ -1,0 +1,19 @@
+﻿* {
+    margin: 0;
+    background-color: #FFB6C1;
+}
+#divdev {
+    text-align: center;
+}
+#heading_1 {
+    color: #8B0A50;
+    background-color: #FF66FF;
+    padding: 50px;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    width: 100%;
+}
